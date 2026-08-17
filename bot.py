@@ -2,7 +2,8 @@
 вчера 19:29
 import sqlite3
 yig'uv sexi bilan press sexi o'ynaydi
-bo'yoqlash sexi bilan sifat bo'limi o'ynaydi
+import os
+...
 2-payvandlash sexi va texnologiya chorak finalda 
 shuni grafik qilib ber
 
