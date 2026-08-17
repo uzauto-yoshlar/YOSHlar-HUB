@@ -1,0 +1,47 @@
+YOSHlar HUB — joriy etish rejasi
+
+1-bosqich: Telegram bot
+- /start
+- Profil
+- E'lonlar
+- Tadbirlar
+- Ro'yxatdan o'tish
+- Taklif/Muammo
+- Sport
+
+2-bosqich: Admin boshqaruvi
+- E'lon qo'shish
+- Tadbir qo'shish
+- Murojaat statusini o'zgartirish
+- Ishtirokchilar ro'yxatini Excelga chiqarish
+
+3-bosqich: Sport moduli
+- Jamoa yaratish
+- 12 futbol jamoasi
+- A/B qator
+- Qur'a
+- Chorak final
+- Yarim final
+- Final
+- Natijalar va jadval
+
+4-bosqich: Trening moduli
+- Kurs/trening
+- Ro'yxat
+- Test
+- Natija
+- Sertifikat
+
+5-bosqich: Rahbariyat dashboardi
+- Faol yoshlar soni
+- Tadbirlar
+- Ishtirokchilar
+- Murojaatlar
+- Hal qilingan muammolar
+- Loyihalar va natijalar
+
+6-bosqich: Korxona ichki tizimlari bilan integratsiya
+- SKUD/HR ma'lumotlari
+- Ichki portal
+- Excel/Google Sheets
+- E-mail va Telegram xabarnomalar
