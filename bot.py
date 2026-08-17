@@ -1,3 +1,266 @@
+
+вчера 19:29
+5da4d510-3ff8-4892-a428-963391b847d1.png
+yig'uv sexi bilan press sexi o'ynaydi
+bo'yoqlash sexi bilan sifat bo'limi o'ynaydi
+2-payvandlash sexi va texnologiya chorak finalda 
+shuni grafik qilib ber
+
+Сформированное изображение
+
+
+Редактировать
+
+
+Сформированное изображение
+
+
+Редактировать
+
+
+Сформированное изображение: Футбольный турнир: путь в полуфинал
+
+
+Редактировать
+
+
+Сформированное изображение: Yarim Finalga Yo‘l Kurashlari
+
+
+Редактировать
+
+
+Сформированное изображение: Футбольный турнир: следующий этап определён
+
+
+Редактировать
+
+🏆⚽️ MUSOBAQANING KEYINGI BOSQICHI ANIQLANDI!
+
+🇺🇿 Mustaqilligimizning 35 yilligi munosabati bilan tashkil etilgan futbol musobaqasida 12 ta jamoa ishtirok etdi va ular A hamda B qatorlarga ajratildi.
+
+🔥 Yarim finalga to‘g‘ridan-to‘g‘ri yo‘llanma olgan jamoalar:
+
+🅰️ A qator: ⚙️ Texnologiya jamoasi
+🅱️ B qator: 🧑‍🏭 2-payvandlash sexi jamoasi
+
+⚔️ CHORAK FINAL BAHSLARI:
+
+🔵 Yig‘uv sexi 🆚 Press sexi
+➡️ G‘olib Texnologiya jamoasiga qarshi yarim finalda maydonga tushadi.
+
+🟢 Sifat bo‘limi 🆚 Bo‘yoqlash sexi-1
+➡️ G‘olib 2-payvandlash sexi jamoasiga qarshi yarim finalda o‘ynaydi.
+
+🏆 YARIM FINAL YO‘NALISHLARI:
+
+Texnologiya 🆚 Yig‘uv/Press g‘olibi
+
+2-payvandlash sexi 🆚 Sifat/Bo‘yoqlash-1 g‘olibi
+
+🔥 Endi haqiqiy kurash boshlanadi!
+⚽️ Kim final yo‘llanmasini qo‘lga kiritadi?
+
+💪 Barcha jamoalarga omad va g‘alaba tilaymiz!
+
+#UzAutoMotors #Futbol #Mustaqillik35 #Sport #YarimFinal #ChorakFinal
+
+
+75e5a969-2860-4eb1-867c-68b7a987f535.png
+
+2e178ff8-aeac-44c5-bf9f-113b24246586.png
+
+78d37c03-8283-4eed-9c7c-b4dbaa798836.png
+
+e126d1e0-6cd9-4527-9c5a-f8eabe8e950f.png
+
+4f69783f-9eac-42cb-bdfd-0e5811d39eed.png
+qaysi
+
+19d2935d-e521-499c-8c9f-c340ef6fed50.png
+
+1e2387fd-d5d7-40a8-8c40-db9cfa9fecc9.png
+
+3e373a6b-e0b2-4559-ad49-c5b8c5aa3ff6.png
+
+4e5ba1d4-79d4-4f3d-8eff-67ff6fb11a8f.png
+
+2c9d3954-9122-40b9-8ec5-4954526f233f.png
+
+cb3a3f91-857c-4797-a861-56dd9f445d74.png
+
+38049a01-e607-4910-a6a6-aa209c03f948.png
+
+Ha, xatoni ko‘rdim. 👍 Kodning o‘zida xato ko‘rinmayapti. Muammo pip paketni PyPI'dan yuklayotganda yuz bergan.
+
+Logdagi asosiy xato:
+
+too many 502 error responses
+
+Ya'ni Render → PyPI serveriga ulanishda vaqtinchalik 502 xatolik bo‘lgan. Build failed shuning uchun chiqdi.
+
+🟢 1-qadam — qayta Deploy qilamiz
+Render sahifasining yuqori o‘ng tomonida:
+
+Manual Deploy tugmasini bosing.
+
+Keyin:
+
+Deploy latest commit
+
+ni tanlang.
+
+🟢 2-qadam
+Yangi deploy boshlanadi.
+
+Logda yana:
+
+Running build command
+pip install -r requirements.txt
+chiqadi.
+
+Bu safar paketlar muvaffaqiyatli yuklanishi mumkin.
+
+⚠️ Hozircha hech narsani o‘zgartirmang
+BOT_TOKEN — o‘zgartirmang
+
+COMPANY_NAME — o‘zgartirmang
+
+WEBHOOK_SECRET — o‘zgartirmang
+
+GitHub kodini — o‘zgartirmang
+
+Faqat Manual Deploy → Deploy latest commit.
+
+Agar yana 502 chiqsa, yana bir marta qayta deploy qilmaymiz — men requirements.txtni o‘zgartirib, paket versiyasini aniq belgilab beraman.
+
+👉 Hozir Manual Deploy → Deploy latest commit ni bosing va natijasini yuboring.
+
+
+62373aee-c262-4cfb-a355-340c89bcf4c2.png
+
+Zo‘r! 🎉 Muammo hal bo‘ldi. Bu safar build muvaffaqiyatli yakunlangan.
+
+Skrinshotda:
+
+✅ Successfully installed...
+
+✅ Build successful 🎉
+
+✅ Deploying...
+
+✅ Running 'python bot.py'
+
+demak, bot hozir ishga tushish bosqichida.
+
+Hozir hech narsani bosmang
+⏳ 30–60 soniya kuting.
+
+Keyin yuqoridagi holat:
+
+Building → Live
+
+bo‘lishi kerak.
+
+Keyingi tekshiruv
+Agar Live bo‘lsa, menga skrinshot yuboring.
+
+Agar loglarda:
+
+Application started
+
+Listening on...
+
+yoki boshqa yashil/muvaffaqiyatli xabar
+
+chiqsa, bu ham yaxshi.
+
+⚠️ Agar Error / Traceback / Failed chiqsa, aynan o‘sha joyning skrinshotini yuboring.
+
+Hozirgi holat: bot serverga o‘rnatildi, faqat ishga tushishini kutyapmiz. 🚀
+
+
+6ef4d83c-bbe3-49f9-9761-05a8df73d752.png
+
+Ha, endi aniq sabab topildi. Sizdagi xato:
+
+No open ports detected
+Port scan timeout reached
+
+Render botni ishga tushiryapti, lekin bot.py avval Telegram webhook'ni sozlashga urinib, portni keyin ochyapti. Render esa portni tezda ko‘rmagani uchun deployni to‘xtatyapti.
+
+Buni tuzatamiz. Hozircha Render'da boshqa tugma bosmang.
+
+1-QADAM — yangi bot.pyni yuklab oling
+Men aynan shu xatoni tuzatib, bot.pyni tayyorladim:
+
+Tuzatilgan bot.py — yuklab olish
+
+2-QADAM — GitHub'ga kiring
+GitHub → YOSHlar-HUB repository'siga kiring.
+
+bot.pyni oching.
+
+Yuqoridagi ✏️ Edit tugmasini bosing.
+
+3-QADAM — eski kodni almashtiring
+GitHub'dagi bot.py ichidagi barcha eski kodni o‘chiring.
+
+Men bergan:
+
+bot_render_fixed.py
+
+faylini kompyuteringizda oching.
+
+Undagi barcha kodni nusxalang va GitHub'dagi bot.pyga joylang.
+
+⚠️ Fayl nomini bot.py qilib qoldiring.
+
+4-QADAM — saqlash
+GitHub sahifasining pastiga tushing.
+
+Commit changes tugmasini bosing.
+
+Shundan keyin GitHub'da bot.py yangilanadi.
+
+5-QADAM — Render'ga qaytamiz
+Render avtomatik ravishda GitHub'dagi yangi commitni ko‘radi.
+
+Agar avtomatik deploy boshlanmasa:
+
+Manual Deploy → Deploy latest commit
+
+ni bosing.
+
+Nima o‘zgaradi?
+Yangi kod avval:
+
+Render
+   ↓
+PORT 10000 ochiladi
+   ↓
+Render portni ko‘radi ✅
+   ↓
+Telegram webhook sozlanadi
+   ↓
+YOSHlar HUB ishlaydi 🤖
+bo‘ladi.
+
+Oldingi kodda esa webhook sozlash port ochilishidan oldin bajarilayotgan edi.
+
+Hozir siz faqat 1–4-qadamlarni bajaring.
+GitHub'dagi bot.py yangilangach, menga skrinshot yuboring. Men keyin siz bilan Render'da Deploy latest commit bosishdan boshlab davom etaman.
+
+
+bot_render_fixed.py
+Код
+
+
+Библиотека
+/
+bot_render_fixed.py
+
+
 import asyncio
 import os
 import sqlite3
@@ -5,12 +268,14 @@ from datetime import datetime
 from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters import CommandStart, Command
-from aiogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton
+from aiogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton, Update
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.context import FSMContext
+from aiohttp import web
 
 load_dotenv()
 TOKEN = os.getenv("BOT_TOKEN", "")
+WEBHOOK_SECRET = os.getenv("WEBHOOK_SECRET", "yoshlarhub-webhook-secret")
 ADMIN_IDS = {int(x.strip()) for x in os.getenv("ADMIN_IDS", "").split(",") if x.strip().isdigit()}
 COMPANY = os.getenv("COMPANY_NAME", "UzAuto Motors AJ Xorazm viloyati filiali")
 
@@ -205,10 +470,61 @@ async def feedbacks(m: Message):
     if not rows: return await m.answer("Murojaatlar yo‘q.")
     await m.answer("\n\n".join(f"#{r['id']} | {r['status']}\n{r['text']}" for r in rows))
 
+async def health(request):
+    return web.Response(text="YOSHlar HUB is running")
+
+async def webhook(request):
+    if request.headers.get("X-Telegram-Bot-Api-Secret-Token") != WEBHOOK_SECRET:
+        return web.Response(status=403, text="Forbidden")
+    data = await request.json()
+    update = Update.model_validate(data)
+    await dp.feed_update(bot, update)
+    return web.Response(text="OK")
+
 async def main():
     if not TOKEN:
         raise RuntimeError("BOT_TOKEN .env faylida ko‘rsatilmagan.")
-    await dp.start_polling(bot)
+
+    port = int(os.getenv("PORT", "10000"))
+    external_url = os.getenv("RENDER_EXTERNAL_URL", "").rstrip("/")
+    if not external_url:
+        raise RuntimeError("RENDER_EXTERNAL_URL Render tomonidan berilmagan.")
+
+    webhook_url = f"{external_url}/webhook"
+
+    # Start the HTTP server FIRST so Render detects the port immediately.
+    app = web.Application()
+    app.router.add_get("/", health)
+    app.router.add_get("/health", health)
+    app.router.add_post("/webhook", webhook)
+
+    runner = web.AppRunner(app)
+    await runner.setup()
+    site = web.TCPSite(runner, "0.0.0.0", port)
+    await site.start()
+    print(f"YOSHlar HUB running on port {port}")
+
+    # Configure Telegram webhook after the HTTP port is already listening.
+    for attempt in range(1, 6):
+        try:
+            await bot.set_webhook(
+                url=webhook_url,
+                secret_token=WEBHOOK_SECRET,
+                drop_pending_updates=True
+            )
+            print(f"Telegram webhook set: {webhook_url}")
+            break
+        except Exception as exc:
+            print(f"Webhook setup attempt {attempt}/5 failed: {exc}")
+            if attempt < 5:
+                await asyncio.sleep(5)
+
+    try:
+        await asyncio.Event().wait()
+    finally:
+        await bot.delete_webhook(drop_pending_updates=False)
+        await runner.cleanup()
+        await bot.session.close()
 
 if __name__ == "__main__":
     asyncio.run(main())
