@@ -1,6 +1,6 @@
 
 вчера 19:29
-5da4d510-3ff8-4892-a428-963391b847d1.png
+import sqlite3
 yig'uv sexi bilan press sexi o'ynaydi
 bo'yoqlash sexi bilan sifat bo'limi o'ynaydi
 2-payvandlash sexi va texnologiya chorak finalda 
